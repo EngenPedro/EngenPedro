@@ -1,4 +1,4 @@
-<p align="left">Estatísticas</p>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
