@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Analista de Dados<br>- Engenharia de Promtp</p>
+<p align="left">- Estudante de Analista de Dados<br>- Engenharia de Prompt</p>
 
 ###
 
